@@ -1,6 +1,6 @@
 # Fitting Poisson  distribution
-NAME:NENTHRANJI S
-REG NO:212224040216
+NAME:HARISH.E
+REG NO:212223220031
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
